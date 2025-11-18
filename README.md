@@ -22,23 +22,16 @@
 
 ---
 
-## 🛠️ Technical Skills
-
-### Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EntityFramework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
 ### Concepts
-![OOP](https://img.shields.io/badge/OOP-Informational?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge)
-![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-DI-blueviolet?style=for-the-badge)
+
+**OOP**  
+![OOP](https://img.shields.io/badge/OOP-95%25-brightgreen)
+
+**SOLID**  
+![SOLID](https://img.shields.io/badge/SOLID-85%25-blue)
+
+**DDD & Microservices (In Progress)**  
+![DDD & Microservices](https://img.shields.io/badge/DDD%20%26%20Microservices-40%25-orange)
 
 ---
 
@@ -59,19 +52,6 @@
 **Bachelor of Computer Science**  
 Al-Balqaʾ Applied University | 2020 – 2024  
 
----
-
-## 🛠️ Personal Projects
-
-**ComputergyAPI — Backend Developer**  
-- Secure RESTful APIs using ASP.NET Core & EF  
-- OTP and token-based authentication  
-
-**FoodTek — Backend Developer**  
-- Backend services & SQL Server database for food delivery system  
-- CRUD operations, authentication for admin & client roles  
-
----
 
 
 ---
