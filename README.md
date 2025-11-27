@@ -33,6 +33,10 @@
 **DDD & Microservices (In Progress)**  
 ![DDD & Microservices](https://img.shields.io/badge/DDD%20%26%20Microservices-40%25-orange)
 
+
+**Anguler (In Progress)**  
+![Anguler](https://img.shields.io/badge/DDD%20%26%20Microservices-50%25-orange)
+
 ---
 
 ## 💼 Work Experience
